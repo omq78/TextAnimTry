@@ -13,6 +13,7 @@
 		3215251522CF3FF8008B5785 /* TextAnimTry.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3215251322CF3FF8008B5785 /* TextAnimTry.xcdatamodeld */; };
 		3215251722CF4000008B5785 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3215251622CF4000008B5785 /* Assets.xcassets */; };
 		3215251A22CF4000008B5785 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3215251822CF4000008B5785 /* LaunchScreen.storyboard */; };
+		3215252222CF4127008B5785 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3215252122CF4127008B5785 /* UIColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3215251622CF4000008B5785 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3215251922CF4000008B5785 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3215251B22CF4000008B5785 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3215252122CF4127008B5785 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3215251822CF4000008B5785 /* LaunchScreen.storyboard */,
 				3215251B22CF4000008B5785 /* Info.plist */,
 				3215251322CF3FF8008B5785 /* TextAnimTry.xcdatamodeld */,
+				3215252122CF4127008B5785 /* UIColorExtension.swift */,
 			);
 			path = TextAnimTry;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3215251522CF3FF8008B5785 /* TextAnimTry.xcdatamodeld in Sources */,
 				3215250F22CF3FF8008B5785 /* ViewController.swift in Sources */,
 				3215250D22CF3FF8008B5785 /* AppDelegate.swift in Sources */,
+				3215252222CF4127008B5785 /* UIColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
